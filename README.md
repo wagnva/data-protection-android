@@ -5,4 +5,4 @@ This repository contains the data protection information for my Android Apps as 
 
 ### Apps
 
-#### [Image Border Editor](/image_border_editor.html)
+#### [Image Border Editor](/image_border_editor.md)
